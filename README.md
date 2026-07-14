@@ -39,8 +39,8 @@ This application enables users to upload a chest X-ray image and receive instant
 
 **Access the deployed application:** [chest-xray-classifier-app-tc.streamlit.app](https://chest-xray-classifier-app-tc.streamlit.app)
 
-<img width="1915" height="880" alt="image" src="https://github.com/user-attachments/assets/3bde91ab-464b-4acc-b329-6af05575abb7" />
-![App Screenshot](assets/app_screenshot.png)
+
+[App Screenshot with an sample Chest X-Ray](<img width="1915" height="880" alt="image" src="https://github.com/user-attachments/assets/3bde91ab-464b-4acc-b329-6af05575abb7" />)
 
 ---
 
@@ -203,15 +203,29 @@ font = "sans serif"
 
 ---
 
-## Author
+## About the Author
 
-**Tisha Chatterjee**
+**Tisha Chatterjee** is a Biomedical Engineering student and independent researcher converging on brain-computer interfaces, neuroplasticity, and medical imaging. She is a researcher at MIT Critical Data, a Global Neurosurgery Fellow at George Washington University, a cohort member at Stanford-affiliated S.Y.A.L.I.S Labs (top 8% of 2,000+ applicants), and a bioinformatics researcher at CureQuest. She is a TEDx Scholar (Top 10 globally) and an IIT Bombay Techfest College Ambassador (Rank 36 / 10,000+).
 
-- Researcher at MIT Critical Data and Stanford
--
-- [LinkedIn](https://linkedin.com/in/tishachatterjee) | [GitHub](https://github.com/tishact7)
+- 🔗 [LinkedIn](https://linkedin.com/in/tishachatterjee)
+- 📧 tishachatterjee77@gmail.com
+- 🧠 Research Interests: BCI · Neuroplasticity · Medical Imaging · Computational Biology · AI in Healthcare
 
 ---
+
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@misc{chatterjee2026chestxray,
+  author = {Chatterjee, Tisha},
+  title = {Chest X-Ray Classifier App: Multi-Label Thoracic Disease Detection with DenseNet-121},
+  year = {2026},
+  howpublished = {\url{[https://github.com/tishact7/Chest-XRay-Classifier-App]}},
+  note = {Independent research project}
+}
+```
 
 ## Acknowledgments
 
