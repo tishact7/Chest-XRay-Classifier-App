@@ -39,8 +39,8 @@ This application enables users to upload a chest X-ray image and receive instant
 
 **Access the deployed application:** [chest-xray-classifier-app-tc.streamlit.app](https://chest-xray-classifier-app-tc.streamlit.app)
 
-
-[App Screenshot with an sample Chest X-Ray](<img width="1915" height="880" alt="image" src="https://github.com/user-attachments/assets/3bde91ab-464b-4acc-b329-6af05575abb7" />)
+<img width="1915" height="880" alt="image" src="https://github.com/user-attachments/assets/3bde91ab-464b-4acc-b329-6af05575abb7" />
+[App Screenshot with an sample Chest X-Ray]
 
 ---
 
