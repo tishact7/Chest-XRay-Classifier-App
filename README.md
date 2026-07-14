@@ -101,7 +101,7 @@ The pre-trained model weights are hosted via GitHub Releases due to file size co
 models/densenet121_chestxray.pth
 ```
 
-Alternatively, train your own model using the [classifier training repository](https://github.com/tishact7/Chest-XRay-Classifier).
+Alternatively, train your own model using the [classifier training repository]([https://github.com/tishact7/Chest-XRay-Pathology-Classifier]).
 
 ### 4. Run the Application
 
@@ -137,7 +137,7 @@ The underlying model was trained on the NIH ChestX-ray14 dataset (112,120 images
 | Architecture | DenseNet-121 |
 | Classes | 14 (multi-label) |
 
-Full training details and reproducible notebooks are available in the [Chest-XRay-Classifier](https://github.com/tishact7/Chest-XRay-Classifier) repository.
+Full training details and reproducible notebooks are available in the [Chest-XRay-Pathology-Classifier](https://github.com/tishact7/Chest-XRay-Pathology-Classifier) repository.
 
 ---
 
